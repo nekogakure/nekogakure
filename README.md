@@ -1,6 +1,8 @@
-C#,Java,HTML,CSS,Javascript
+# こんにちは。ねこがくれです！
+こんにちは。私の名前はねこがくれです。またの名をsei6seiと言います。scratchやってる人なら知ってるかなー。
 
-<!---
-nekogakure/nekogakure is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## できること
+Clang, C++, Javascript, HTML, CSSです。一番得意なのはCです。
+
+> [!NOTE]
+> いっとくけどHTMLはプログラミング言語じゃないからね？マークアップ言語だからね？
