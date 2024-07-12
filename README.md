@@ -15,3 +15,4 @@ Clang, C++, Javascript, HTML, CSSです。一番得意なのはCです。
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nekogakure&theme=solarized_dark&utcOffset=9)
 
 ## 実績
+![trophy](https://github-profile-trophy.vercel.app/?username=nekogakure&theme=tokyonight)
