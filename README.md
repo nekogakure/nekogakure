@@ -1,8 +1,8 @@
-# こんにちは。ねこがくれです！
-こんにちは。私の名前はねこがくれです。またの名をsei6seiと言います。scratchやってる人なら知ってるかなー。
+# Hello, World！
+Hello, World! ねこがくれ（sei6sei）と言います。scratchやってる人なら知ってるかなー。
 
 ## できること
-Clang, C++, Javascript, HTML, CSSです。一番得意なのはCです。
+Clang, C++, Javascript, phpです。一番得意なのはC。
 
 > [!NOTE]
 > いっとくけどHTMLはプログラミング言語じゃないからね？マークアップ言語だからね？
