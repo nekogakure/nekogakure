@@ -5,7 +5,7 @@ Hello, World! ねこがくれ（sei6sei）と言います。scratchやってる�
     <img height="20" src="https://komarev.com/ghpvc/?username=nekogakure" />
   </a>
   <a href="https://github.com/Itsuki0222">
-    <img height="20" src="https://img.shields.io/github/followers/nekogakure?label=follow&logo=github&style=flat" />
+    <img height="20" src="https://img.shields.io/github/followers/nekogakure?label=follower&logo=github&style=flat" />
   </a>
 </p>
 ## できること
