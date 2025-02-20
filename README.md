@@ -1,6 +1,13 @@
 # Hello, World！
 Hello, World! ねこがくれ（sei6sei）と言います。scratchやってる人なら知ってるかなー。
-
+<p align="left">
+  <a href="https://github.com/Itsuki0222">
+    <img height="20" src="https://komarev.com/ghpvc/?username=nekogakure" />
+  </a>
+  <a href="https://github.com/Itsuki0222">
+    <img height="20" src="https://img.shields.io/github/followers/nekogakure?label=follow&logo=github&style=flat" />
+  </a>
+</p>
 ## できること
 Clang, C++, Javascript, phpです。一番得意なのはC。
 
