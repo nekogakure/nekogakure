@@ -12,8 +12,7 @@ C, ASM, UEFI, PHPをこよなく愛しています。
   </a>
 </p>
 
-## できること
-Clang, C++, Javascript, php
+![](https://skillicons.dev/icons?i=html,css,js,typescript,cpp,php)
 
 ## Language
 - Japanese（main）
