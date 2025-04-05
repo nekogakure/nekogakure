@@ -12,6 +12,6 @@ C, ASM, UEFI, PHPをこよなく愛しています。
   </a>
 </p>
 
-![](https://skillicons.dev/icons?i=html,css,js,typescript,cpp,php)
+![](https://skillicons.dev/icons?i=html,css,js,typescript,c,cpp,cs,php,next,asm)
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=nekogakure)](https://github.com/anuraghazra/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=nekogakure)](https://github.com/ryo-ma/github-profile-trophy)
