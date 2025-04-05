@@ -3,7 +3,7 @@ Hello, World! ねこがくれ（sei6sei）と言います。
 
 C, ASM, UEFI, PHPをこよなく愛しています。
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/nekogakure">
     <img height="20" src="https://komarev.com/ghpvc/?username=nekogakure" />
   </a>
