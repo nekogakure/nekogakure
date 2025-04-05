@@ -13,12 +13,5 @@ C, ASM, UEFI, PHPをこよなく愛しています。
 </p>
 
 ![](https://skillicons.dev/icons?i=html,css,js,typescript,cpp,php)
-
-## Language
-- Japanese（main）
-- English（little...）
-
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=nekogakure)](https://github.com/anuraghazra/github-readme-stats)
-
-## 実績
-![trophy](https://github-profile-trophy.vercel.app/?username=nekogakure&theme=tokyonight)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
