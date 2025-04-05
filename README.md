@@ -18,12 +18,7 @@ C, ASM, UEFI, PHPをこよなく愛しています。
 - Japanese（main）
 - English（little...）
 
-## 統計
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nekogakure&theme=solarized_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nekogakure&theme=solarized_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nekogakure&theme=solarized_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nekogakure&theme=solarized_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nekogakure&theme=solarized_dark&utcOffset=9)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=nekogakure)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 実績
 ![trophy](https://github-profile-trophy.vercel.app/?username=nekogakure&theme=tokyonight)
