@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://u.cubeupload.com/nekogakure/3GUCBx.png" align="center" style="width: 100%" />
+<img src="https://u.cubeupload.com/nekogakure/VO3015.png" align="center" style="width: 100%" />
 </div>  
   
 
