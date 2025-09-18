@@ -19,8 +19,6 @@
 
 - I’m currently learning **X11 Libs**
 
-- I’m looking to collaborate on [Pyrite](https://github.com/pyrite-dev)
-
 - I’m looking for help with [Arciris OS](https://github.com/Arciris-OS)
 
 - Ask me about **Clang**
