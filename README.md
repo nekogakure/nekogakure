@@ -19,7 +19,7 @@
 
 - I’m currently learning **X11 Libs**
 
-- I’m looking for help with [Arciris OS](https://github.com/Arciris-OS)
+- I’m looking for help with [Arciris org](https://github.com/Arciris-org)
 
 - Ask me about **Clang**
 
