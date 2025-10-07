@@ -20,6 +20,27 @@
 
 - Ask me about **C**
 
+### Skills
+- **language**
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,ts,php,dart)](https://skillicons.dev)
+
+- **editor**
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,vim,androidstudio,clion)](https://skillicons.dev)
+
+- **tools**
+
+[![My Skills](https://skillicons.dev/icons?i=npm,bash,git,github,figma)](https://skillicons.dev)
+
+- **framework**
+
+[![My Skills](https://skillicons.dev/icons?i=next,flutter,tailwind,react,powershell)](https://skillicons.dev)
+
+- **operating system**
+
+[![My Skills](https://skillicons.dev/icons?i=linux,windows)](https://skillicons.dev)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/nek0_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nek0_dev" height="30" width="40" /></a>
