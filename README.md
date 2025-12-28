@@ -23,7 +23,7 @@
 ### Skills
 - **language**
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,ts,php,dart)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,rust,html,css,ts,php,dart)](https://skillicons.dev)
 
 - **editor**
 
