@@ -45,10 +45,3 @@
 <p align="left">
 <a href="https://twitter.com/nek0_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nek0_dev" height="30" width="40" /></a>
 </p>
-
-<h3 algin="left">My Data</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nekogakure&show_icons=true&locale=en&layout=compact" alt="nekogakure" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nekogakure&show_icons=true&locale=en" alt="nekogakure" /></p>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=nekogakure&label=Profile%20views&color=0e75b6&style=flat" alt="nekogakure" /> </p>
