@@ -10,13 +10,11 @@
 
 <p align="center"> <a href="https://twitter.com/nek0_dev" target="blank"><img src="https://img.shields.io/twitter/follow/nek0_dev?logo=twitter&style=for-the-badge" alt="nek0_dev" /></a> </p>
 
-- I’m currently working on [Arciris org](https://arciris.org)
+- I’m currently working on [orinium org](https://github.com/Orinium-browser/)
 
-- I'm currenty contribute to [OriniumBrowser](https://github.com/Orinas-github/Orinium-browser)
+- I'm currenty contribute to [Orinium](https://github.com/Orinium-browser/)
 
 - I’m currently learning **Rust**
-
-- I'm helping [nandeyanen](https://nandeyanen.ie-t.net)
 
 - Ask me about **C**
 
@@ -41,8 +39,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=linux,windows)](https://skillicons.dev)
 
-[![languages](output
-/top6_lang.svg)](./output/top6_lang.svg)
+[![languages](https://github.com/nekogakure/nekogakure/blob/main/output/top6_lang.svg)](./output/top6_lang.svg)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
